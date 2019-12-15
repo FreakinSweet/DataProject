@@ -7,9 +7,15 @@ Prior to Project 3, I chose North Korea because it's an interesting backwards st
 
 ## The Beginning: North Korea
 
-### 
+### North Korea, map of city borders, ADM 2 divisions:
 
+![](DPRK_GADM.png)
 
+![](popmap_adm1.png)
+
+![](popmap_vid.mp4)
+
+North Korea has 14 provinces and 186 subdivisions. 
 
 
 
