@@ -2,10 +2,10 @@
 
 by: Shane Evanson
 
-### A 2D view of roads and healthcare facilities
+### A 2D view of roads and healthcare facilities:
 
-![](hcfs_2d_map.png)
+![](hcfs_2d_plot.png)
 
-### A 3D topographical view of the province
+### A 3D topographical view of the province:
 
 ![](3d_plot.png)
