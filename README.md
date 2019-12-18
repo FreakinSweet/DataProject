@@ -34,9 +34,8 @@ There are numerous small settlements dotting Manzini province, which roughly tra
 
 ![](hcfs_2d_plot.png)
 
-In the above plot, urbanized areas of Swaziland are stretched further past the city itself to illustrate that there are more decently sized settlements outside of the city itself, and that they follow the roadways. The primary roads take the paths of least resistance around Swaziland, avoiding climbing mountains and instead going around the mountainous terrain through the valleys between them.
+In the above plot, urbanized areas of Swaziland are stretched further past the city itself to illustrate that there are more decently sized settlements outside of the city itself, and that they follow the roadways. The primary roads take the paths of least resistance around Swaziland, avoiding climbing mountains and instead going around the mountainous terrain through the valleys between them. Unfortunately, because the roads weave through the mountains, they are not as efficient as they could be, though not terribly so inefficient. In Manzini specifically, there are 66 healthcare facilities (which fall under OpenStreetMap's definitions of hospitals, clinics, doctors, and dentists), most of which are in the city proper or are further north. Because they are all centered in roughly the same location, those who live in the far southwestern reaches of Manzini might expect up to an hour if not more of travel time to recieve healthcare. To make matters worse, referring to the below table, the 66 health facilities in Manzini have to support more than 350 thousand people, bottlenecking their ability to help. 
 
 ![](table_hcfs.png)
 
-
-
+As a result of this, the human development within Swaziland is significantly hindered. Nearly 26% of all Swazilanders have HIV/AIDS, and even more, near 61%, die from it. With a proper healthcare system in place, Swaziland could potentially see great growth like the countries in central Africa have seen. At present however, their nation, just recently a kingdom, is crippled.
