@@ -15,7 +15,7 @@ Prior to Project 3, I chose North Korea because it's an interesting backwards st
 
 ![](popmap_vid.gif)
 
-North Korea has 14 provinces and 186 subdivisions, and as shown in the animation, only one subdivision really has a significant population, which is the city of Pyongyang. The distribution of population all centers around Pyongyang-namdo province (namdo meaning "north"), decreasing as one goes further from it. 
+North Korea has 14 provinces and 186 subdivisions, and as shown in the animation, only one subdivision really has a significant population, which is the city of Pyongyang. The distribution of population all centers around Pyongyang-namdo province, decreasing as one goes further from it. 
 
 ### A 2D view of roads and healthcare facilities:
 
